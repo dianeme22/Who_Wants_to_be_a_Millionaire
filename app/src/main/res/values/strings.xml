@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Who Wants to be a Millionaire</string>
+    <string name="gameinstructions">
+        \n1. Start the game.\n
+        \n2. Choose the correct answer. \n
+        \n3. Once answer is confirmed, it cannot change. \n
+        \n4. Player can claim winning amount at any level by clicking prize money. \n
+        \n5. Correct answer will turn to green and wrong answers will turn to orange.\n
+    </string>
+    <string name="Proceed">proceed</string>
+    <string name="exit_toast_msg">You have exited the game, prize money lost.</string>
+    <string name="are_you_sure">\nIs that your final answer?\n\nLast chance to change your answer</string>
+    <string name="exit_game_title">Exit Game?</string>
+    <string name="confirmedAlready">Answer already confirmed. Cannot chance answer. \nPlease proceed to next question.</string>
+    <string name="confirmed">Answer confirmed, \nPlease proceed. </string>
+    <string name="confirmed_wrong">Wrong answer confirmed, \nPlease proceed. </string>
+    <string name="q1">Which is a primary color?</string>
+    <string name="q1a1">A. Red</string>
+    <string name="q1a2">B. Black</string>
+    <string name="q1a3">C. Purple</string>
+    <string name="q1a4">D. Navy</string>
+    <string name="q2">Which country is NOT an island? </string>
+    <string name="q2a1">A. Jamaica</string>
+    <string name="q2a2">B. Cuba</string>
+    <string name="q2a3">C. Germany</string>
+    <string name="q2a4">D. Madagascar</string>
+    <string name="q3">Which of these planets shares its name with a current American automobile maker? </string>
+    <string name="q3a1">A. Saturn</string>
+    <string name="q3a2">B. Venus</string>
+    <string name="q3a3">C. Mars</string>
+    <string name="q3a4">D. Jupiter</string>
+    <string name="q4">What is the study of rocks and rock formations called? </string>
+    <string name="q4a1">A. Astrology</string>
+    <string name="q4a2">B. Geography</string>
+    <string name="q4a3">C. Geometry</string>
+    <string name="q4a4">D. Geology</string>
+    <string name="q5">The island of Cuba lies in which sea/ocean? </string>
+    <string name="q5a1">A. Norwegian Sea</string>
+    <string name="q5a2">B. Baltic Sea</string>
+    <string name="q5a3">C. Caribbean Sea</string>
+    <string name="q5a4">D. Mediterranean Sea</string>
+    <string name="q6">What are the main colors on the flag of Spain? </string>
+    <string name="q6a1">A. Red and Yellow</string>
+    <string name="q6a2">B. Black and Yellow</string>
+    <string name="q6a3">C. Green and White</string>
+    <string name="q6a4">D. Blue and White</string>
+    <string name="q7">Which of the following items was owned by the fewest U.S. homes in 1990?</string>
+    <string name="q7a1">A. Home computer</string>
+    <string name="q7a2">B. Cordless phone</string>
+    <string name="q7a3">C. Compact disk player</string>
+    <string name="q7a4">D. Dishwasher</string>
+    <string name="q8"> What did the D in D-day stand for? </string>
+    <string name="q8a1">A. Day</string>
+    <string name="q8a2">B. Doom</string>
+    <string name="q8a3">C. Dwight</string>
+    <string name="q8a4">D. Dunkirk</string>
+    <string name="q9">In J. Edgar Hoover, what did the J stand for? </string>
+    <string name="q9a1">A. James</string>
+    <string name="q9a2">B. John</string>
+    <string name="q9a3">C. Joseph</string>
+    <string name="q9a4">D. Jeremy</string>
+    <string name="q10">How many rings are on the Olympic flag? </string>
+    <string name="q10a1">A. 5</string>
+    <string name="q10a2">B. 7</string>
+    <string name="q10a3">C. 4</string>
+    <string name="q10a4">D. None</string>
+    <string name="money_1">$ 0</string>
+    <string name="money_2">$ 1000</string>
+    <string name="money_3">$ 2000</string>
+    <string name="money_4">$ 7500</string>
+    <string name="money_5">$ 15000</string>
+    <string name="money_6">$ 30000</string>
+    <string name="money_7">$ 50000</string>
+    <string name="money_8">$ 100000</string>
+    <string name="money_9">$ 500000</string>
+    <string name="money_10">$ 1000000</string>
+    <string name="you_won_the_">\nBetter luck next time!</string>
+    <string name="you_won_money">You have won $0</string>
+    <string name="claim_your_money">\n\nDo not want to continue?\n\nClick on prize money and claim it.</string>
+
+</resources>
